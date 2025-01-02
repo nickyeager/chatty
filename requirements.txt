@@ -1,0 +1,6 @@
+langchain="*" 
+replicate="*" 
+flask="*" 
+requests="*" 
+uvicorn="*" 
+gunicorn="*"
